@@ -1,0 +1,492 @@
+Category,Description,Balance,Withdrawal,Date,Deposit
+Opening,OPENING BALANCE,10000,0,01-Jan-25,0
+Mandatory/Utility,SALARY CRED,85000,0,01-Jan-25,75000
+Travel,MakeMyTrip,84266,734,02-Jan-25,0
+Mandatory/Utility,Credit Card Bill,83213,1053,03-Jan-25,0
+Non-Mandatory (Food/Grocery/Households),UPI/Subway,81162,2051,03-Jan-25,0
+Investment/Savings,RD Installment REFUND,83595,0,03-Jan-25,2433
+Mandatory/Utility,ATM Withdrawal,78174,5421,05-Jan-25,0
+Non-Mandatory (Food/Grocery/Households),UPI/Zomato,71434,6740,05-Jan-25,0
+Travel,Airbnb,64706,6728,06-Jan-25,0
+Investment/Savings,Gold Investment,58211,6495,06-Jan-25,0
+Investment/Savings,RD Installment REFUND,60857,0,06-Jan-25,2646
+Mandatory/Utility,Water Bill,58481,2376,07-Jan-25,0
+Travel,Airbnb,57507,974,07-Jan-25,0
+Non-Mandatory (Food/Grocery/Households),UPI/Swiggy REFUND,59631,0,08-Jan-25,2124
+Luxury/Discretionary,UPI/GYM,55364,4267,11-Jan-25,0
+Investment/Savings,RD Installment,46812,8552,12-Jan-25,0
+Non-Mandatory (Food/Grocery/Households),UPI/Zepto,38205,8607,12-Jan-25,0
+Luxury/Discretionary,UPI/CCD,31127,7078,12-Jan-25,0
+Non-Mandatory (Food/Grocery/Households),UPI/Dominos,29846,1281,13-Jan-25,0
+Investment/Savings,FD Creation REFUND,32386,0,13-Jan-25,2540
+Travel,Hotel Booking,27107,5279,14-Jan-25,0
+Mandatory/Utility,Gas Bill,25021,2086,15-Jan-25,0
+Travel,Airbnb,18654,6367,16-Jan-25,0
+Travel,Airbnb,14974,3680,18-Jan-25,0
+Non-Mandatory (Food/Grocery/Households),UPI/Zomato,12833,2141,18-Jan-25,0
+Investment/Savings,RD Installment,7372,5461,19-Jan-25,0
+Non-Mandatory (Food/Grocery/Households),UPI/BigBasket,5351,2021,21-Jan-25,0
+Travel,OYO Rooms,3808,1543,22-Jan-25,0
+Adjustment,MONTH-END REFUND,5966,0,01-Feb-25,2158
+Opening,OPENING BALANCE,5966,0,01-Feb-25,0
+Mandatory/Utility,SALARY CRED,80966,0,01-Feb-25,75000
+Mandatory/Utility,GAS BILL,79750,1216,01-Feb-25,0
+Mandatory/Utility,LIC Premium,71880,7870,03-Feb-25,0
+Travel,MakeMyTrip,69659,2221,03-Feb-25,0
+Investment/Savings,Mutual Fund-SIP,68345,1314,04-Feb-25,0
+Mandatory/Utility,ATM Withdrawal,67712,633,05-Feb-25,0
+Non-Mandatory (Food/Grocery/Households),UPI/Zepto REFUND,71462,0,05-Feb-25,3750
+Non-Mandatory (Food/Grocery/Households),UPI/McDonalds,69184,2278,05-Feb-25,0
+Non-Mandatory (Food/Grocery/Households),UPI/Zomato,65466,3718,11-Feb-25,0
+Non-Mandatory (Food/Grocery/Households),UPI/Dominos,62042,3424,11-Feb-25,0
+Mandatory/Utility,Broadband Bill,53688,8354,11-Feb-25,0
+Mandatory/Utility,Electricity Bill,44604,9084,14-Feb-25,0
+Travel,MakeMyTrip,35141,9463,15-Feb-25,0
+Mandatory/Utility,Mobile Recharge,27186,7955,16-Feb-25,0
+Luxury/Discretionary,UPI/IKEA,23708,3478,16-Feb-25,0
+Non-Mandatory (Food/Grocery/Households),UPI/Starbucks,16582,7126,16-Feb-25,0
+Investment/Savings,RD Installment REFUND,17718,0,17-Feb-25,1136
+Luxury/Discretionary,UPI/Inox Cinemas,9584,8134,19-Feb-25,0
+Mandatory/Utility,School Fees,2996,6588,19-Feb-25,0
+Luxury/Discretionary,UPI/Starbucks REFUND,3680,0,22-Feb-25,684
+Luxury/Discretionary,UPI/GYM,2708,972,25-Feb-25,0
+Mandatory/Utility,Gas Bill REFUND,7013,0,25-Feb-25,4305
+Luxury/Discretionary,UPI/Starbucks,3086,3927,26-Feb-25,0
+Non-Mandatory (Food/Grocery/Households),UPI/McDonalds REFUND,5967,0,26-Feb-25,2881
+Travel,Airbnb,5469,498,28-Feb-25,0
+Adjustment,MONTH-END REFUND,9001,0,01-Mar-25,3532
+Opening,OPENING BALANCE,9001,0,01-Mar-25,0
+Mandatory/Utility,SALARY CRED,84001,0,01-Mar-25,75000
+Luxury/Discretionary,UPI/Starbucks,74725,9276,01-Mar-25,0
+Travel,UPI/Ola,71093,3632,01-Mar-25,0
+Travel,Flight Booking,66992,4101,02-Mar-25,0
+Investment/Savings,Stock Purchase,62135,4857,02-Mar-25,0
+Luxury/Discretionary,UPI/CCD REFUND,62877,0,02-Mar-25,742
+Mandatory/Utility,EMI-HOME LOAN,61802,1075,03-Mar-25,0
+Luxury/Discretionary,UPI/CCD,59941,1861,03-Mar-25,0
+Investment/Savings,RD Installment,59298,643,03-Mar-25,0
+Investment/Savings,FD Creation,53376,5922,05-Mar-25,0
+Travel,Hotel Booking,53095,281,05-Mar-25,0
+Investment/Savings,RD Installment,48316,4779,06-Mar-25,0
+Travel,MakeMyTrip,47825,491,07-Mar-25,0
+Investment/Savings,Gold Investment,45893,1932,10-Mar-25,0
+Investment/Savings,Gold Investment,41116,4777,10-Mar-25,0
+Non-Mandatory (Food/Grocery/Households),UPI/Zomato,31305,9811,11-Mar-25,0
+Non-Mandatory (Food/Grocery/Households),UPI/Dmart,26303,5002,11-Mar-25,0
+Mandatory/Utility,ATM Withdrawal,19383,6920,13-Mar-25,0
+Investment/Savings,FD Creation,15811,3572,14-Mar-25,0
+Non-Mandatory (Food/Grocery/Households),UPI/Star Bazaar,13444,2367,15-Mar-25,0
+Luxury/Discretionary,UPI/Decathlon,8521,4923,15-Mar-25,0
+Luxury/Discretionary,UPI/GYM,4188,4333,16-Mar-25,0
+Non-Mandatory (Food/Grocery/Households),UPI/Instamart,3666,522,17-Mar-25,0
+Travel,MakeMyTrip,2915,751,17-Mar-25,0
+Mandatory/Utility,ATM Withdrawal REFUND,6392,0,19-Mar-25,3477
+Mandatory/Utility,Internet Bill REFUND,8319,0,19-Mar-25,1927
+Luxury/Discretionary,UPI/GYM,7753,566,22-Mar-25,0
+Non-Mandatory (Food/Grocery/Households),UPI/Dmart,3827,3926,23-Mar-25,0
+Investment/Savings,FD Creation REFUND,5198,0,23-Mar-25,1371
+Investment/Savings,RD Installment,3144,2054,23-Mar-25,0
+Mandatory/Utility,LIC Premium REFUND,7855,0,24-Mar-25,4711
+Investment/Savings,Stock Purchase,6998,857,24-Mar-25,0
+Non-Mandatory (Food/Grocery/Households),UPI/BigBasket,4914,2084,26-Mar-25,0
+Travel,Flight Booking,4406,508,30-Mar-25,0
+Travel,Airbnb REFUND,5535,0,30-Mar-25,1129
+Luxury/Discretionary,UPI/Inox Cinemas,3442,2093,31-Mar-25,0
+Adjustment,MONTH-END REFUND,9521,0,01-Apr-25,6079
+Opening,OPENING BALANCE,9521,0,01-Apr-25,0
+Mandatory/Utility,SALARY CRED,84521,0,01-Apr-25,75000
+Mandatory/Utility,Gas Bill,75058,9463,02-Apr-25,0
+Investment/Savings,Crypto Purchase,66876,8182,02-Apr-25,0
+Non-Mandatory (Food/Grocery/Households),UPI/Zepto REFUND,70763,0,05-Apr-25,3887
+Luxury/Discretionary,UPI/CCD,62082,8681,07-Apr-25,0
+Non-Mandatory (Food/Grocery/Households),UPI/McDonalds REFUND,66147,0,07-Apr-25,4065
+Travel,Flight Booking,59832,6315,07-Apr-25,0
+Travel,UPI/Uber REFUND,61934,0,08-Apr-25,2102
+Luxury/Discretionary,UPI/TITAN Watch,57955,3979,08-Apr-25,0
+Luxury/Discretionary,UPI/Decathlon,52344,5611,09-Apr-25,0
+Investment/Savings,Stock Purchase,48669,3675,10-Apr-25,0
+Investment/Savings,RD Installment,44753,3916,10-Apr-25,0
+Travel,MakeMyTrip,35674,9079,11-Apr-25,0
+Non-Mandatory (Food/Grocery/Households),UPI/Zepto REFUND,40437,0,11-Apr-25,4763
+Non-Mandatory (Food/Grocery/Households),UPI/Amazon,37383,3054,12-Apr-25,0
+Luxury/Discretionary,UPI/Sephora,32710,4673,12-Apr-25,0
+Non-Mandatory (Food/Grocery/Households),UPI/Subway,31829,881,12-Apr-25,0
+Luxury/Discretionary,UPI/Starbucks,23213,8616,13-Apr-25,0
+Non-Mandatory (Food/Grocery/Households),UPI/Local Grocery,22773,440,13-Apr-25,0
+Luxury/Discretionary,UPI/Starbucks REFUND,25589,0,15-Apr-25,2816
+Travel,OYO Rooms,18619,6970,15-Apr-25,0
+Investment/Savings,Mutual Fund-SIP,12802,5817,18-Apr-25,0
+Non-Mandatory (Food/Grocery/Households),UPI/BigBasket,8556,4246,18-Apr-25,0
+Mandatory/Utility,ATM Withdrawal REFUND,9266,0,19-Apr-25,710
+Travel,OYO Rooms REFUND,9898,0,21-Apr-25,632
+Mandatory/Utility,Electricity Bill,7138,2760,21-Apr-25,0
+Non-Mandatory (Food/Grocery/Households),UPI/Star Bazaar REFUND,7739,0,23-Apr-25,601
+Investment/Savings,FD Creation,2501,5238,23-Apr-25,0
+Mandatory/Utility,ATM Withdrawal REFUND,3116,0,27-Apr-25,615
+Mandatory/Utility,School Fees REFUND,4452,0,28-Apr-25,1336
+Investment/Savings,RD Installment REFUND,7401,0,30-Apr-25,2949
+Adjustment,MONTH-END REFUND,14852,0,01-May-25,7451
+Opening,OPENING BALANCE,14852,0,01-May-25,0
+Mandatory/Utility,SALARY CRED,89852,0,01-May-25,75000
+Mandatory/Utility,Credit Card Bill,80967,8885,01-May-25,0
+Luxury/Discretionary,UPI/Netflix REFUND,81918,0,01-May-25,951
+Investment/Savings,FD Creation,72894,9024,01-May-25,0
+Mandatory/Utility,Gas Bill,72230,664,03-May-25,0
+Non-Mandatory (Food/Grocery/Households),UPI/Zepto,69469,2761,06-May-25,0
+Luxury/Discretionary,UPI/CCD REFUND,72560,0,09-May-25,3091
+Travel,OYO Rooms,63646,8914,09-May-25,0
+Mandatory/Utility,Broadband Bill,54884,8762,10-May-25,0
+Luxury/Discretionary,UPI/GYM,49261,5623,10-May-25,0
+Investment/Savings,Mutual Fund-SIP,42680,6581,11-May-25,0
+Investment/Savings,FD Creation,38394,4286,11-May-25,0
+Investment/Savings,Gold Investment,33709,4685,14-May-25,0
+Mandatory/Utility,Gas Bill,30961,2748,14-May-25,0
+Travel,Flight Booking,22901,8060,14-May-25,0
+Travel,Flight Booking,14049,8852,15-May-25,0
+Investment/Savings,Crypto Purchase,9565,4484,15-May-25,0
+Non-Mandatory (Food/Grocery/Households),UPI/Star Bazaar,2245,7320,16-May-25,0
+Investment/Savings,FD Creation REFUND,5219,0,17-May-25,2974
+Travel,Flight Booking,3006,2213,17-May-25,0
+Luxury/Discretionary,UPI/Café Coffee Day REFUND,5508,0,18-May-25,2502
+Mandatory/Utility,MedPlus Pharmacy,4663,845,18-May-25,0
+Travel,MakeMyTrip,2853,1810,21-May-25,0
+Mandatory/Utility,EMI-HOME LOAN REFUND,7344,0,27-May-25,4491
+Investment/Savings,Stock Purchase,5923,1421,27-May-25,0
+Mandatory/Utility,Mobile Recharge REFUND,6566,0,29-May-25,643
+Adjustment,MONTH-END REFUND,14375,0,01-Jun-25,7809
+Opening,OPENING BALANCE,14375,0,01-Jun-25,0
+Mandatory/Utility,SALARY CRED,89375,0,01-Jun-25,75000
+Investment/Savings,FD Creation,86541,2834,01-Jun-25,0
+Investment/Savings,Stock Purchase REFUND,90543,0,01-Jun-25,4002
+Investment/Savings,Crypto Purchase,88190,2353,01-Jun-25,0
+Luxury/Discretionary,UPI/Sephora,85215,2975,02-Jun-25,0
+Mandatory/Utility,EMI-HOME LOAN REFUND,88025,0,03-Jun-25,2810
+Non-Mandatory (Food/Grocery/Households),UPI/Dominos,78810,9215,03-Jun-25,0
+Luxury/Discretionary,UPI/IKEA,71844,6966,04-Jun-25,0
+Travel,Airbnb,64987,6857,05-Jun-25,0
+Non-Mandatory (Food/Grocery/Households),UPI/BigBasket,60781,4206,06-Jun-25,0
+Investment/Savings,Gold Investment,57533,3248,06-Jun-25,0
+Travel,UPI/Uber,55509,2024,06-Jun-25,0
+Investment/Savings,FD Creation,46974,8535,07-Jun-25,0
+Luxury/Discretionary,UPI/Spotify,41448,5526,07-Jun-25,0
+Travel,UPI/Ola,35096,6352,07-Jun-25,0
+Luxury/Discretionary,UPI/GYM,29559,5537,08-Jun-25,0
+Travel,Hotel Booking,26942,2617,09-Jun-25,0
+Travel,Hotel Booking,24041,2901,09-Jun-25,0
+Travel,Flight Booking,15388,8653,10-Jun-25,0
+Mandatory/Utility,Credit Card Bill,13727,1661,11-Jun-25,0
+Luxury/Discretionary,UPI/Decathlon,12041,1686,11-Jun-25,0
+Travel,OYO Rooms REFUND,16219,0,11-Jun-25,4178
+Non-Mandatory (Food/Grocery/Households),UPI/Zepto,11308,4911,13-Jun-25,0
+Non-Mandatory (Food/Grocery/Households),UPI/Local Grocery REFUND,13209,0,15-Jun-25,1901
+Non-Mandatory (Food/Grocery/Households),UPI/Star Bazaar,10791,2418,15-Jun-25,0
+Non-Mandatory (Food/Grocery/Households),UPI/Dominos,8679,2112,15-Jun-25,0
+Travel,Hotel Booking,5044,3635,16-Jun-25,0
+Luxury/Discretionary,UPI/GYM REFUND,6054,0,19-Jun-25,1010
+Mandatory/Utility,Broadband Bill,2956,3098,20-Jun-25,0
+Investment/Savings,Stock Purchase REFUND,4472,0,21-Jun-25,1516
+Non-Mandatory (Food/Grocery/Households),UPI/Swiggy,3823,649,21-Jun-25,0
+Luxury/Discretionary,UPI/PVR Cinemas REFUND,7823,0,24-Jun-25,4000
+Investment/Savings,Crypto Purchase,4453,3370,26-Jun-25,0
+Adjustment,MONTH-END REFUND,11869,0,01-Jul-25,7416
+Opening,OPENING BALANCE,11869,0,01-Jul-25,0
+Mandatory/Utility,SALARY CRED,86869,0,01-Jul-25,75000
+Non-Mandatory (Food/Grocery/Households),UPI/BigBasket,83613,3256,01-Jul-25,0
+Luxury/Discretionary,UPI/PVR Cinemas,82643,970,01-Jul-25,0
+Travel,OYO Rooms,79174,3469,02-Jul-25,0
+Travel,Hotel Booking,73702,5472,02-Jul-25,0
+Investment/Savings,Crypto Purchase REFUND,74876,0,02-Jul-25,1174
+Luxury/Discretionary,UPI/Spotify,73876,1000,03-Jul-25,0
+Mandatory/Utility,Insurance Premium,69278,4598,04-Jul-25,0
+Investment/Savings,Gold Investment,60155,9123,05-Jul-25,0
+Luxury/Discretionary,UPI/Decathlon,52874,7281,05-Jul-25,0
+Investment/Savings,Gold Investment REFUND,55519,0,07-Jul-25,2645
+Luxury/Discretionary,UPI/Decathlon,54226,1293,08-Jul-25,0
+Investment/Savings,Gold Investment,53291,935,08-Jul-25,0
+Investment/Savings,Crypto Purchase REFUND,58155,0,09-Jul-25,4864
+Non-Mandatory (Food/Grocery/Households),UPI/Zomato,56519,1636,10-Jul-25,0
+Non-Mandatory (Food/Grocery/Households),UPI/Local Grocery,55272,1247,11-Jul-25,0
+Mandatory/Utility,EMI-HOME LOAN,48141,7131,13-Jul-25,0
+Investment/Savings,RD Installment,43312,4829,13-Jul-25,0
+Non-Mandatory (Food/Grocery/Households),UPI/Zomato,38584,4728,13-Jul-25,0
+Investment/Savings,Stock Purchase,34834,3750,18-Jul-25,0
+Non-Mandatory (Food/Grocery/Households),UPI/BigBasket,34052,782,18-Jul-25,0
+Non-Mandatory (Food/Grocery/Households),UPI/Dmart,28710,5342,19-Jul-25,0
+Mandatory/Utility,Gas Bill,28055,655,19-Jul-25,0
+Travel,Hotel Booking REFUND,29690,0,19-Jul-25,1635
+Luxury/Discretionary,UPI/H&M,22272,7418,20-Jul-25,0
+Travel,OYO Rooms,15063,7209,20-Jul-25,0
+Mandatory/Utility,Gas Bill,10111,4952,21-Jul-25,0
+Travel,MakeMyTrip,8794,1317,22-Jul-25,0
+Investment/Savings,RD Installment,7266,1528,23-Jul-25,0
+Mandatory/Utility,Broadband Bill,3878,3388,25-Jul-25,0
+Investment/Savings,Crypto Purchase REFUND,8536,0,27-Jul-25,4658
+Mandatory/Utility,Water Bill,5026,3510,28-Jul-25,0
+Luxury/Discretionary,UPI/TITAN Watch,4266,760,29-Jul-25,0
+Adjustment,MONTH-END REFUND,10000,0,01-Aug-25,5734
+Opening,OPENING BALANCE,10000,0,01-Aug-25,0
+Mandatory/Utility,SALARY CRED,85000,0,01-Aug-25,75000
+Investment/Savings,Gold Investment,81159,3841,01-Aug-25,0
+Mandatory/Utility,School Fees,74245,6914,01-Aug-25,0
+Non-Mandatory (Food/Grocery/Households),UPI/Star Bazaar,65704,8541,01-Aug-25,0
+Non-Mandatory (Food/Grocery/Households),UPI/Star Bazaar,59752,5952,02-Aug-25,0
+Luxury/Discretionary,UPI/BookMyShow,54991,4761,02-Aug-25,0
+Luxury/Discretionary,UPI/BookMyShow,46768,8223,02-Aug-25,0
+Travel,OYO Rooms,39081,7687,04-Aug-25,0
+Travel,Airbnb REFUND,43011,0,04-Aug-25,3930
+Investment/Savings,Crypto Purchase,35646,7365,08-Aug-25,0
+Mandatory/Utility,MedPlus Pharmacy,27731,7915,08-Aug-25,0
+Investment/Savings,RD Installment,24143,3588,09-Aug-25,0
+Travel,Hotel Booking,15208,8935,09-Aug-25,0
+Travel,Airbnb,9496,5712,10-Aug-25,0
+Luxury/Discretionary,UPI/H&M,2818,6678,12-Aug-25,0
+Travel,OYO Rooms REFUND,7052,0,13-Aug-25,4234
+Luxury/Discretionary,UPI/BookMyShow REFUND,8231,0,14-Aug-25,1179
+Non-Mandatory (Food/Grocery/Households),UPI/Instamart,3093,5138,17-Aug-25,0
+Non-Mandatory (Food/Grocery/Households),UPI/Subway REFUND,5104,0,18-Aug-25,2011
+Luxury/Discretionary,UPI/GYM,2717,2387,19-Aug-25,0
+Travel,Airbnb REFUND,5880,0,21-Aug-25,3163
+Non-Mandatory (Food/Grocery/Households),UPI/Subway,4178,1702,24-Aug-25,0
+Luxury/Discretionary,UPI/Decathlon REFUND,5808,0,25-Aug-25,1630
+Mandatory/Utility,LIC Premium,3700,2108,25-Aug-25,0
+Investment/Savings,Gold Investment,2035,1665,25-Aug-25,0
+Investment/Savings,RD Installment REFUND,3107,0,30-Aug-25,1072
+Travel,Flight Booking,2434,673,31-Aug-25,0
+Adjustment,MONTH-END REFUND,12988,0,01-Sep-25,10554
+Opening,OPENING BALANCE,12988,0,01-Sep-25,0
+Mandatory/Utility,SALARY CRED,87988,0,01-Sep-25,75000
+Non-Mandatory (Food/Grocery/Households),UPI/Subway REFUND,91497,0,01-Sep-25,3509
+Investment/Savings,Crypto Purchase,89189,2308,01-Sep-25,0
+Mandatory/Utility,Internet Bill REFUND,93174,0,02-Sep-25,3985
+Non-Mandatory (Food/Grocery/Households),UPI/Amazon,92096,1078,02-Sep-25,0
+Mandatory/Utility,GAS BILL,89046,3050,02-Sep-25,0
+Investment/Savings,Gold Investment,83381,5665,03-Sep-25,0
+Luxury/Discretionary,UPI/Spotify REFUND,87953,0,03-Sep-25,4572
+Non-Mandatory (Food/Grocery/Households),UPI/Instamart,85872,2081,04-Sep-25,0
+Luxury/Discretionary,UPI/Café Coffee Day,84966,906,06-Sep-25,0
+Luxury/Discretionary,UPI/Nike,82615,2351,06-Sep-25,0
+Non-Mandatory (Food/Grocery/Households),UPI/Flipkart REFUND,83195,0,06-Sep-25,580
+Investment/Savings,FD Creation,82781,414,07-Sep-25,0
+Luxury/Discretionary,UPI/H&M REFUND,86295,0,07-Sep-25,3514
+Travel,Flight Booking,76921,9374,07-Sep-25,0
+Investment/Savings,RD Installment REFUND,79104,0,08-Sep-25,2183
+Non-Mandatory (Food/Grocery/Households),UPI/Zepto REFUND,80844,0,08-Sep-25,1740
+Investment/Savings,Mutual Fund-SIP,80013,831,08-Sep-25,0
+Luxury/Discretionary,UPI/Spotify,75973,4040,11-Sep-25,0
+Non-Mandatory (Food/Grocery/Households),UPI/McDonalds,67204,8769,11-Sep-25,0
+Travel,MakeMyTrip,64859,2345,11-Sep-25,0
+Investment/Savings,Gold Investment,63478,1381,12-Sep-25,0
+Mandatory/Utility,Apollo Hospital,60767,2711,12-Sep-25,0
+Non-Mandatory (Food/Grocery/Households),UPI/Instamart REFUND,65291,0,13-Sep-25,4524
+Investment/Savings,Stock Purchase,59860,5431,13-Sep-25,0
+Travel,UPI/Uber,57596,2264,13-Sep-25,0
+Travel,OYO Rooms,56362,1234,14-Sep-25,0
+Travel,OYO Rooms,52990,3372,15-Sep-25,0
+Non-Mandatory (Food/Grocery/Households),UPI/BigBasket,48386,4604,15-Sep-25,0
+Luxury/Discretionary,UPI/Nike,38851,9535,15-Sep-25,0
+Investment/Savings,Gold Investment,34080,4771,19-Sep-25,0
+Investment/Savings,FD Creation,25284,8796,20-Sep-25,0
+Non-Mandatory (Food/Grocery/Households),UPI/McDonalds,22402,2882,20-Sep-25,0
+Travel,Airbnb REFUND,25666,0,21-Sep-25,3264
+Non-Mandatory (Food/Grocery/Households),UPI/Dominos,22026,3640,21-Sep-25,0
+Luxury/Discretionary,UPI/GYM,19045,2981,22-Sep-25,0
+Luxury/Discretionary,UPI/Starbucks REFUND,23297,0,22-Sep-25,4252
+Mandatory/Utility,Mobile Recharge,19696,3601,22-Sep-25,0
+Luxury/Discretionary,UPI/Spotify,18988,708,23-Sep-25,0
+Mandatory/Utility,House Rent,16894,2094,25-Sep-25,0
+Luxury/Discretionary,UPI/TITAN Watch,10165,6729,25-Sep-25,0
+Non-Mandatory (Food/Grocery/Households),UPI/BigBasket,6143,4022,26-Sep-25,0
+Travel,Flight Booking,3004,3139,26-Sep-25,0
+Mandatory/Utility,Gas Bill REFUND,3519,0,27-Sep-25,515
+Investment/Savings,FD Creation REFUND,5403,0,30-Sep-25,1884
+Opening,OPENING BALANCE,5403,0,01-Oct-25,0
+Mandatory/Utility,SALARY CRED,80403,0,01-Oct-25,75000
+Travel,MakeMyTrip REFUND,82575,0,01-Oct-25,2172
+Luxury/Discretionary,UPI/Café Coffee Day,76429,6146,02-Oct-25,0
+Investment/Savings,Stock Purchase,72444,3985,03-Oct-25,0
+Luxury/Discretionary,UPI/GYM,70386,2058,04-Oct-25,0
+Mandatory/Utility,Electricity Bill,66069,4317,04-Oct-25,0
+Mandatory/Utility,Apollo Hospital,63508,2561,06-Oct-25,0
+Mandatory/Utility,School Fees,62540,968,06-Oct-25,0
+Investment/Savings,FD Creation,59709,2831,06-Oct-25,0
+Investment/Savings,Crypto Purchase,58274,1435,07-Oct-25,0
+Luxury/Discretionary,UPI/TITAN Watch REFUND,61399,0,07-Oct-25,3125
+Luxury/Discretionary,UPI/BookMyShow,58865,2534,07-Oct-25,0
+Investment/Savings,Stock Purchase,57587,1278,08-Oct-25,0
+Non-Mandatory (Food/Grocery/Households),UPI/Star Bazaar,50996,6591,11-Oct-25,0
+Investment/Savings,FD Creation,50666,330,11-Oct-25,0
+Investment/Savings,Stock Purchase,41718,8948,11-Oct-25,0
+Investment/Savings,Mutual Fund-SIP,40937,781,12-Oct-25,0
+Mandatory/Utility,Water Bill,38891,2046,13-Oct-25,0
+Travel,Hotel Booking,33506,5385,13-Oct-25,0
+Travel,OYO Rooms,30285,3221,14-Oct-25,0
+Luxury/Discretionary,UPI/Café Coffee Day,20762,9523,14-Oct-25,0
+Luxury/Discretionary,UPI/IKEA,14191,6571,14-Oct-25,0
+Travel,UPI/IRCTC,4600,9591,15-Oct-25,0
+Mandatory/Utility,Credit Card Bill REFUND,8764,0,15-Oct-25,4164
+Travel,Hotel Booking REFUND,9829,0,15-Oct-25,1065
+Mandatory/Utility,LIC Premium,7874,1955,17-Oct-25,0
+Travel,Airbnb,6374,1500,17-Oct-25,0
+Luxury/Discretionary,UPI/Spotify,5844,530,18-Oct-25,0
+Luxury/Discretionary,UPI/Inox Cinemas REFUND,10183,0,19-Oct-25,4339
+Luxury/Discretionary,UPI/BookMyShow,6193,3990,19-Oct-25,0
+Luxury/Discretionary,UPI/GYM REFUND,10212,0,22-Oct-25,4019
+Non-Mandatory (Food/Grocery/Households),UPI/Star Bazaar,5138,5074,23-Oct-25,0
+Mandatory/Utility,ATM Withdrawal REFUND,9269,0,23-Oct-25,4131
+Luxury/Discretionary,UPI/Netflix,8515,754,24-Oct-25,0
+Mandatory/Utility,Mobile Recharge,2031,6484,24-Oct-25,0
+Investment/Savings,FD Creation REFUND,5974,0,28-Oct-25,3943
+Luxury/Discretionary,UPI/Spotify,2141,3833,28-Oct-25,0
+Adjustment,MONTH-END REFUND,12798,0,01-Nov-25,10657
+Opening,OPENING BALANCE,12798,0,01-Nov-25,0
+Mandatory/Utility,SALARY CRED,87798,0,01-Nov-25,75000
+Luxury/Discretionary,UPI/Netflix,86495,1303,01-Nov-25,0
+Travel,Airbnb,77387,9108,01-Nov-25,0
+Non-Mandatory (Food/Grocery/Households),UPI/Subway,74262,3125,01-Nov-25,0
+Non-Mandatory (Food/Grocery/Households),UPI/Subway,64616,9646,02-Nov-25,0
+Non-Mandatory (Food/Grocery/Households),UPI/Subway,59005,5611,02-Nov-25,0
+Non-Mandatory (Food/Grocery/Households),UPI/Swiggy,58197,808,02-Nov-25,0
+Mandatory/Utility,House Rent,51797,6400,03-Nov-25,0
+Mandatory/Utility,Apollo Hospital,50716,1081,03-Nov-25,0
+Travel,UPI/IRCTC,46778,3938,04-Nov-25,0
+Luxury/Discretionary,UPI/H&M REFUND,51582,0,04-Nov-25,4804
+Non-Mandatory (Food/Grocery/Households),UPI/Dominos,44576,7006,05-Nov-25,0
+Travel,Airbnb,42597,1979,05-Nov-25,0
+Mandatory/Utility,Internet Bill,36215,6382,05-Nov-25,0
+Investment/Savings,Crypto Purchase REFUND,40225,0,06-Nov-25,4010
+Travel,Airbnb,38966,1259,06-Nov-25,0
+Investment/Savings,FD Creation,29264,9702,06-Nov-25,0
+Investment/Savings,RD Installment,24088,5176,07-Nov-25,0
+Mandatory/Utility,EMI-PERSONAL LOAN,14872,9216,09-Nov-25,0
+Non-Mandatory (Food/Grocery/Households),UPI/Zepto REFUND,17370,0,10-Nov-25,2498
+Luxury/Discretionary,UPI/Sephora,17041,329,10-Nov-25,0
+Mandatory/Utility,Water Bill,12670,4371,10-Nov-25,0
+Mandatory/Utility,LIC Premium REFUND,16354,0,11-Nov-25,3684
+Investment/Savings,Crypto Purchase,13472,2882,12-Nov-25,0
+Investment/Savings,FD Creation,8485,4987,12-Nov-25,0
+Mandatory/Utility,House Rent,5361,3124,13-Nov-25,0
+Mandatory/Utility,Electricity Bill REFUND,9578,0,17-Nov-25,4217
+Travel,MakeMyTrip REFUND,13596,0,18-Nov-25,4018
+Investment/Savings,Stock Purchase,6432,7164,21-Nov-25,0
+Travel,Flight Booking,5882,550,22-Nov-25,0
+Non-Mandatory (Food/Grocery/Households),UPI/Swiggy,4874,1008,25-Nov-25,0
+Travel,Flight Booking REFUND,8262,0,27-Nov-25,3388
+Non-Mandatory (Food/Grocery/Households),UPI/Subway REFUND,12494,0,28-Nov-25,4232
+Non-Mandatory (Food/Grocery/Households),UPI/Swiggy,4157,8337,28-Nov-25,0
+Investment/Savings,FD Creation REFUND,6804,0,29-Nov-25,2647
+Luxury/Discretionary,UPI/Starbucks,2382,4422,29-Nov-25,0
+Travel,MakeMyTrip REFUND,6298,0,29-Nov-25,3916
+Travel,UPI/Uber REFUND,9393,0,30-Nov-25,3095
+Luxury/Discretionary,UPI/TITAN Watch,7994,1399,30-Nov-25,0
+Opening,OPENING BALANCE,7994,0,01-Dec-25,0
+Mandatory/Utility,SALARY CRED,82994,0,01-Dec-25,75000
+Investment/Savings,Gold Investment,76295,6699,01-Dec-25,0
+Travel,Flight Booking,70291,6004,02-Dec-25,0
+Mandatory/Utility,MedPlus Pharmacy,69819,472,02-Dec-25,0
+Non-Mandatory (Food/Grocery/Households),UPI/Subway,64984,4835,04-Dec-25,0
+Mandatory/Utility,Credit Card Bill,56353,8631,05-Dec-25,0
+Luxury/Discretionary,UPI/Sephora,55901,452,06-Dec-25,0
+Non-Mandatory (Food/Grocery/Households),UPI/Dmart REFUND,60220,0,06-Dec-25,4319
+Travel,Airbnb,58393,1827,06-Dec-25,0
+Travel,Flight Booking,53052,5341,07-Dec-25,0
+Luxury/Discretionary,UPI/CCD,45928,7124,07-Dec-25,0
+Investment/Savings,Crypto Purchase,40655,5273,07-Dec-25,0
+Mandatory/Utility,MedPlus Pharmacy,36744,3911,08-Dec-25,0
+Investment/Savings,Crypto Purchase REFUND,39881,0,09-Dec-25,3137
+Travel,UPI/Uber,31072,8809,09-Dec-25,0
+Investment/Savings,Stock Purchase,28205,2867,09-Dec-25,0
+Mandatory/Utility,Insurance Premium REFUND,31967,0,10-Dec-25,3762
+Luxury/Discretionary,UPI/BookMyShow REFUND,35809,0,10-Dec-25,3842
+Mandatory/Utility,Gas Bill REFUND,37889,0,12-Dec-25,2080
+Investment/Savings,Crypto Purchase,37622,267,12-Dec-25,0
+Mandatory/Utility,Electricity Bill,31835,5787,12-Dec-25,0
+Mandatory/Utility,EMI-PERSONAL LOAN,27006,4829,13-Dec-25,0
+Non-Mandatory (Food/Grocery/Households),UPI/Dominos REFUND,30425,0,13-Dec-25,3419
+Luxury/Discretionary,UPI/Spotify,23641,6784,13-Dec-25,0
+Luxury/Discretionary,UPI/PVR Cinemas,13756,9885,15-Dec-25,0
+Travel,MakeMyTrip REFUND,16488,0,16-Dec-25,2732
+Travel,MakeMyTrip,6565,9923,16-Dec-25,0
+Travel,Hotel Booking REFUND,9789,0,17-Dec-25,3224
+Luxury/Discretionary,UPI/Inox Cinemas REFUND,10753,0,17-Dec-25,964
+Travel,MakeMyTrip REFUND,14117,0,18-Dec-25,3364
+Mandatory/Utility,Broadband Bill,12055,2062,18-Dec-25,0
+Investment/Savings,FD Creation,3656,8399,18-Dec-25,0
+Travel,UPI/Uber,3271,385,19-Dec-25,0
+Luxury/Discretionary,UPI/Starbucks REFUND,7415,0,22-Dec-25,4144
+Travel,Hotel Booking,5676,1739,26-Dec-25,0
+Travel,Airbnb,2300,3376,28-Dec-25,0
+Non-Mandatory (Food/Grocery/Households),UPI/McDonalds REFUND,3686,0,31-Dec-25,1386
+Adjustment,MONTH-END REFUND,14481,0,01-Jan-26,10795
+Opening,OPENING BALANCE,14481,0,01-Jan-26,0
+Mandatory/Utility,SALARY CRED,89481,0,01-Jan-26,75000
+Mandatory/Utility,MedPlus Pharmacy,86420,3061,01-Jan-26,0
+Investment/Savings,Stock Purchase,80358,6062,01-Jan-26,0
+Mandatory/Utility,Internet Bill,72635,7723,02-Jan-26,0
+Travel,MakeMyTrip REFUND,73156,0,02-Jan-26,521
+Travel,MakeMyTrip,65333,7823,03-Jan-26,0
+Luxury/Discretionary,UPI/H&M,61275,4058,04-Jan-26,0
+Luxury/Discretionary,UPI/Starbucks REFUND,63940,0,05-Jan-26,2665
+Non-Mandatory (Food/Grocery/Households),UPI/BigBasket,55584,8356,06-Jan-26,0
+Luxury/Discretionary,UPI/Starbucks,52723,2861,06-Jan-26,0
+Travel,Hotel Booking,52074,649,08-Jan-26,0
+Travel,UPI/Ola,45601,6473,09-Jan-26,0
+Non-Mandatory (Food/Grocery/Households),UPI/BigBasket,40615,4986,09-Jan-26,0
+Travel,Flight Booking,32472,8143,09-Jan-26,0
+Non-Mandatory (Food/Grocery/Households),UPI/Swiggy,30958,1514,10-Jan-26,0
+Luxury/Discretionary,UPI/BookMyShow,29430,1528,10-Jan-26,0
+Non-Mandatory (Food/Grocery/Households),UPI/Star Bazaar,25004,4426,11-Jan-26,0
+Investment/Savings,Gold Investment REFUND,27634,0,11-Jan-26,2630
+Investment/Savings,Stock Purchase REFUND,31710,0,13-Jan-26,4076
+Mandatory/Utility,SALARY CRED REFUND,32379,0,13-Jan-26,669
+Non-Mandatory (Food/Grocery/Households),UPI/Zomato,23084,9295,13-Jan-26,0
+Mandatory/Utility,Internet Bill,13663,9421,15-Jan-26,0
+Mandatory/Utility,LIC Premium REFUND,17158,0,15-Jan-26,3495
+Luxury/Discretionary,UPI/GYM REFUND,20683,0,16-Jan-26,3525
+Mandatory/Utility,EMI-HOME LOAN,20100,583,16-Jan-26,0
+Mandatory/Utility,ATM Withdrawal,13515,6585,19-Jan-26,0
+Travel,OYO Rooms,6271,7244,19-Jan-26,0
+Non-Mandatory (Food/Grocery/Households),UPI/Star Bazaar REFUND,9728,0,21-Jan-26,3457
+Luxury/Discretionary,UPI/H&M,2971,6757,21-Jan-26,0
+Travel,Flight Booking REFUND,4842,0,22-Jan-26,1871
+Investment/Savings,RD Installment REFUND,7240,0,24-Jan-26,2398
+Mandatory/Utility,LIC Premium,4590,2650,25-Jan-26,0
+Mandatory/Utility,Apollo Hospital REFUND,5760,0,27-Jan-26,1170
+Investment/Savings,Gold Investment REFUND,7489,0,28-Jan-26,1729
+Investment/Savings,RD Installment,3354,4135,30-Jan-26,0
+Luxury/Discretionary,UPI/Adidas Store REFUND,5432,0,30-Jan-26,2078
+Non-Mandatory (Food/Grocery/Households),UPI/Zepto,4574,858,30-Jan-26,0
+Adjustment,MONTH-END REFUND,5896,0,01-Feb-26,1322
+Opening,OPENING BALANCE,5896,0,01-Feb-26,0
+Mandatory/Utility,SALARY CRED,80896,0,01-Feb-26,75000
+Non-Mandatory (Food/Grocery/Households),UPI/McDonalds,79636,1260,02-Feb-26,0
+Investment/Savings,Stock Purchase REFUND,82034,0,04-Feb-26,2398
+Luxury/Discretionary,UPI/Spotify,79930,2104,07-Feb-26,0
+Mandatory/Utility,Mobile Recharge,72805,7125,07-Feb-26,0
+Investment/Savings,FD Creation,66799,6006,08-Feb-26,0
+Luxury/Discretionary,UPI/PVR Cinemas,60688,6111,08-Feb-26,0
+Luxury/Discretionary,UPI/Nike,59709,979,09-Feb-26,0
+Luxury/Discretionary,UPI/Starbucks,58950,759,09-Feb-26,0
+Luxury/Discretionary,UPI/Decathlon,50587,8363,09-Feb-26,0
+Investment/Savings,Stock Purchase,49889,698,10-Feb-26,0
+Luxury/Discretionary,UPI/IKEA,44460,5429,10-Feb-26,0
+Mandatory/Utility,Electricity Bill,36353,8107,11-Feb-26,0
+Travel,Hotel Booking REFUND,39530,0,11-Feb-26,3177
+Luxury/Discretionary,UPI/GYM,33999,5531,12-Feb-26,0
+Investment/Savings,Crypto Purchase,32843,1156,12-Feb-26,0
+Travel,MakeMyTrip,30847,1996,12-Feb-26,0
+Non-Mandatory (Food/Grocery/Households),UPI/Swiggy,22605,8242,13-Feb-26,0
+Travel,Flight Booking,17580,5025,14-Feb-26,0
+Travel,Flight Booking,10870,6710,14-Feb-26,0
+Travel,MakeMyTrip REFUND,13262,0,15-Feb-26,2392
+Travel,Hotel Booking,10186,3076,15-Feb-26,0
+Travel,OYO Rooms REFUND,12633,0,16-Feb-26,2447
+Non-Mandatory (Food/Grocery/Households),UPI/Local Grocery REFUND,15237,0,16-Feb-26,2604
+Mandatory/Utility,Electricity Bill,7498,7739,17-Feb-26,0
+Non-Mandatory (Food/Grocery/Households),UPI/Local Grocery,5402,2096,18-Feb-26,0
+Investment/Savings,RD Installment,4699,703,19-Feb-26,0
+Non-Mandatory (Food/Grocery/Households),UPI/McDonalds,2641,2058,20-Feb-26,0
+Luxury/Discretionary,UPI/Decathlon REFUND,3814,0,24-Feb-26,1173
+Investment/Savings,FD Creation,2640,1174,25-Feb-26,0
+Non-Mandatory (Food/Grocery/Households),UPI/Zepto REFUND,4182,0,26-Feb-26,1542
+Luxury/Discretionary,UPI/PVR Cinemas REFUND,4767,0,26-Feb-26,585
+Adjustment,MONTH-END REFUND,7320,0,01-Mar-26,2553

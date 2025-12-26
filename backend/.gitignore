@@ -1,0 +1,55 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Environment variables
+.env
+.flaskenv
+.secrets.toml
+
+# Databases and logs (if used)
+*.db
+*.sqlite
+/test.db
+log.txt
+
+# IDE-specific files (VS Code, PyCharm, etc.)
+.idea/
+.vscode/
+.mypy_cache/
+.pytest_cache/
+
+# OS-specific files
+.DS_Store # macOS
+*~ # Linux/macOS temporary files
+
+# FastAPI Cloud deployment-specific ignores (optional, refer to docs)
+# Add files here that are tracked in git but not needed for deployment, e.g. tests/
+# tests/
