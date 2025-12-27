@@ -4,7 +4,7 @@ from fastapi import HTTPException, status
 from .models import User
 from .schemas import UserCreateModel, UserLoginModel
 from .utils import generate_passwd_hash, verify_passwd
-from datetime import timedelta
+# from datetime import timedelta
 
 class UserService:
     @staticmethod

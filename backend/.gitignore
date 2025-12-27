@@ -50,6 +50,10 @@ log.txt
 .DS_Store # macOS
 *~ # Linux/macOS temporary files
 
+# in-memory DB related files
+.slite
+*.db
+
 # FastAPI Cloud deployment-specific ignores (optional, refer to docs)
 # Add files here that are tracked in git but not needed for deployment, e.g. tests/
 # tests/

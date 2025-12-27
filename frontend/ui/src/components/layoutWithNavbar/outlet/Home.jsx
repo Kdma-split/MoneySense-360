@@ -1,7 +1,7 @@
 import React from 'react';
 import Login from '../../Login';
 import { UserContext } from '../../../contexts/user.context.jsx'
-import { Input } from "@/components/ui/input"
+import UploadFile from '../../UploadFile.jsx';
 
 export default function Home() {
     const [loginReq, setLoginReq] = React.useState()
@@ -48,13 +48,7 @@ export default function Home() {
                 {/* CTA Button */}
                 { user
                 ? ( 
-                  <div className="p-1 flex justify-center items-center">
-                    <Input 
-                      type="file"
-                      className="bg-transparent placeholder-green-700 text-xl text-amber-100"
-                      placeholder="Upload a .csv or .xlxs file here"
-                    />
-                  </div>
+                    <UploadFile />
                 ) : (
                 <button 
                   onClick={() => setLoginReq(true)}

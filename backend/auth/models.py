@@ -32,11 +32,16 @@
 
 
 
-from sqlmodel import SQLModel, Field
+from sqlmodel import SQLModel, Field, Relationship
 from sqlalchemy import Column
 from sqlalchemy.dialects.postgresql import UUID
 from datetime import datetime
+from typing import List, TYPE_CHECKING
 import uuid
+
+if TYPE_CHECKING:
+    from backend.forms.models import RiskForm
+    from backend.uploads.models import Upload
 
 class User(SQLModel, table=True):
     __tablename__ = "users"
@@ -58,5 +63,8 @@ class User(SQLModel, table=True):
     created_at: datetime = Field(default_factory=datetime.utcnow)
     updated_at: datetime = Field(default_factory=datetime.utcnow)
 
+    risk_forms: List["RiskForm"] = Relationship(back_populates="user")
+    uploads: List['Upload'] = Relationship(back_populates="user")
+    
     def __repr__(self):
         return f"<User {self.email}>"

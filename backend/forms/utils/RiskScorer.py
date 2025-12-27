@@ -21,7 +21,7 @@ class RiskScorer:
             score += 5
 
         # Income
-        income = form["monthly_income"]
+        income = form["income"]
         if income > 200000:
             score += 20
         elif income > 100000:
@@ -32,11 +32,11 @@ class RiskScorer:
             score += 5
 
         # Dependents
-        dep = form["dependents"]
+        dep = form["dependants"]
         score += {0: 20, 1: 15, 2: 10, 3: 5}.get(dep, 0)
 
         # EMI burden
-        emi = form["emi_burden_pct"]
+        emi = form["emi"]
         if emi < 15:
             score += 15
         elif emi <= 30:
@@ -45,7 +45,7 @@ class RiskScorer:
             score += 5
 
         # Growth preference
-        score += self.growth_map.get(form["growth_preference"], 0)
+        score += self.growth_map.get(form["growth"], 0)
 
         return score
 

@@ -1,6 +1,8 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from backend.auth.routes import auth_router
+from backend.forms.routes import riskForm_router
+from backend.uploads.routes import upload_router
 from contextlib import asynccontextmanager
 from backend.db.main import init_db
 
@@ -41,4 +43,5 @@ def read_root():
     return {"message": "Moneysense 360 server is runnibg..."}
 
 app.include_router(auth_router, prefix="/api/v1/auth", tags=["Auth"])
-# app.include_router(upload_router, prefix="/api/v1/uploads", tags=["Uploads"])
+app.include_router(riskForm_router, prefix="/api/v1/risk-form", tags=["Risk-From"])
+app.include_router(upload_router, prefix="/api/v1/uploads", tags=["Uploads"])

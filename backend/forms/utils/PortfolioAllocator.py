@@ -1,0 +1,2 @@
+class PortfolioAllocator:
+    a: str
